@@ -1,0 +1,2 @@
+/obj
+	var/damtype = "brute"

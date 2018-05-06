@@ -1,0 +1,11 @@
+/mob/proc/setMoveCooldown(var/timeout)
+	if(client)
+		client.move_delay = max(world.time + timeout, client.move_delay)
+		spawn(timeout)
+			client.move_delay = initial(client.move_delay)
+
+/mob/proc/setClickCooldown(var/timeout)
+	if(client)
+		client.click_delay = max(world.time + timeout, client.click_delay)
+		spawn(timeout)
+			client.click_delay = initial(client.click_delay)

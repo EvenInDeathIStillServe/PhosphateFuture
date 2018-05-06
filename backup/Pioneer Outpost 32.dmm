@@ -1,0 +1,209 @@
+"a" = (/obj/structure/tree,/turf/floor/grass,/area)
+"b" = (/turf/floor/grass,/area)
+"c" = (/turf/water,/area)
+"d" = (/turf/floor/rock,/area)
+"e" = (/obj/machinery/elevator_control,/turf/floor/rock,/area)
+"f" = (/obj/structure/platform,/turf/floor/rock,/area/elevator)
+"g" = (/obj/machinery/conveyor/east/south,/turf/floor/rock,/area)
+"h" = (/obj/machinery/conveyor{dir = 8},/turf/floor/rock,/area)
+"i" = (/obj/machinery/conveyor{dir = 8},/obj/structure/ore_source/gold,/obj/machinery/drill,/turf/floor/rock,/area)
+"j" = (/obj/machinery/drill_control,/turf/floor/rock,/area)
+"k" = (/obj/machinery/conveyor,/turf/floor/rock,/area)
+"l" = (/obj/machinery/conveyor{dir = 8},/obj/structure/ore_source/iron,/obj/machinery/drill,/turf/floor/rock,/area)
+"m" = (/obj/machinery/conveyor{dir = 1},/turf/floor/rock,/area)
+"n" = (/obj/structure/multiz/ladder/down,/turf/floor/rock,/area)
+"o" = (/obj/machinery/conveyor/north/east,/turf/floor/rock,/area)
+"p" = (/obj/machinery/conveyor{dir = 4},/obj/machinery/saw,/turf/floor/rock,/area)
+"q" = (/obj/machinery/conveyor{dir = 4},/turf/floor/rock,/area)
+"r" = (/obj/machinery/conveyor/west/north,/turf/floor/rock,/area)
+"s" = (/obj/structure/workbench/carpentry,/turf/floor/grass,/area)
+"t" = (/obj/machinery/conveyor/north/west,/turf/floor/rock,/area)
+"u" = (/turf/floor/openspace,/area)
+"v" = (/obj/item/weapon/axe,/turf/floor/grass,/area)
+"w" = (/turf/wall/rock,/area)
+"x" = (/obj/machinery/conveyor/east/south,/turf/floor/grass,/area)
+"y" = (/obj/machinery/conveyor{dir = 8},/turf/floor/grass,/area)
+"z" = (/obj/machinery/conveyor/north/west,/turf/floor/grass,/area)
+"A" = (/obj/machinery/vendingmachine,/turf/floor/rock,/area)
+"B" = (/obj/structure/cashbox,/turf/floor/rock,/area)
+"C" = (/obj/machinery/conveyor{dir = 8},/obj/item/wood,/turf/floor/rock,/area)
+"D" = (/obj/machinery/conveyor/south/west,/turf/floor/rock,/area)
+"E" = (/obj/machinery/conveyor,/obj/machinery/furnace,/turf/floor/rock,/area)
+"F" = (/obj/machinery/conveyor,/obj/item/wood,/turf/floor/rock,/area)
+"G" = (/obj/machinery/conveyor/south/west,/obj/item/stack/planks,/turf/floor/rock,/area)
+"H" = (/obj/item/weapon/pickaxe,/turf/floor/rock,/area)
+"I" = (/obj/machinery/conveyor,/obj/item/stack/planks,/turf/floor/rock,/area)
+"J" = (/turf/floor/spawnpoint,/area)
+"K" = (/obj/item/clothing/head/hardhat/white,/turf/floor/grass,/area)
+"L" = (/obj/item/clothing/uniform/workman/foreman,/turf/floor/grass,/area)
+"M" = (/obj/machinery/conveyor{dir = 4},/obj/item/stack/planks,/turf/floor/rock,/area)
+"N" = (/obj/machinery/conveyor{dir = 1},/obj/item/wood,/turf/floor/rock,/area)
+"O" = (/obj/item/clothing/shoes/rubberboots,/turf/floor/grass,/area)
+"P" = (/obj/machinery/conveyor{dir = 4},/obj/item/wood,/turf/floor/rock,/area)
+"Q" = (/obj/machinery/buy,/turf/wall/rock,/area)
+"R" = (/obj/machinery/budgetdisplay,/turf/wall/rock,/area)
+"S" = (/obj/machinery/sell,/turf/wall/rock,/area)
+"T" = (/obj/machinery/elevator_control/bottom,/turf/floor/rock,/area)
+"U" = (/turf/floor/rock,/area/elevator)
+"V" = (/obj/structure/closet,/turf/floor/rock,/area)
+"W" = (/obj/structure/multiz/ladder/up,/turf/floor/rock,/area)
+"X" = (/obj/machinery/budgetdisplay,/turf/floor/rock,/area)
+
+(1,1,1) = {"
+abbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbb
+bbbbabbbbbbbabbbbbbbabbbbbabbbbbbbbbbabbbbbbbabbbb
+bbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbb
+bbbbbbbbabbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbabbbbbbbb
+bbbabbbbbbbbbabbbbbbbbbabbbbbbbbbbbbabbbbbbbbbabbb
+bbbbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbab
+abbbbbabbababbbbbbabbbbabbbbbabbbabbbbbabbababbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbb
+bbabbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbabbbbbbbb
+bbbbbbbbbbbbbabbbbabbbbbabbbbbbbbbbbbbbbbbbbbbabbb
+bbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbb
+bbbbabbbabbbbbbbbbbbbbabbbbbbbbbbbbbbabbbabbbbbbbb
+abbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbabbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbcbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbabbbbabbbbbbbbbcccbbbbbbbabbbbbabbabbbbbbbb
+bbbbbbbbbbbbbbbbbabbcccccccbbbbbbbbbbbbbbbbbbbabbb
+bbbbbabbbbbbbbbbbbbbcccccccbcbbbbbbbbbabbbbbabbbbb
+bbbabbbbbbbabbabbbbccccccccccabbbbbabbbbbbbbbbabbb
+bbbbbbbbbbbbbbbbbccccccccccccbbbbbbbbbbbbabbbbbbbb
+bbbbbbbbbbbabbbbbbcccccccccccbbbabbbbbabbbbabbbbbb
+bbbbbbbbabbbbbbbbbbcccccccccbabbbbbabbbbbbabbbbabb
+bbabbbbbbbbbbbabbbbbccccccccbbbbbbbbbbbbbbbbbbbbbb
+bbbbabbbbbbabbbbabbbcccbcccbbabbbbbbbbbbabbabbbbbb
+bbabbbbbabbbbbbabbbbacbbbccabbbbbbabbbbbbbbbbbbabb
+bbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbabbbbbbabbbbbbbbba
+bbbbabbbbbbbbabbabbbbbbbbbbbabbbbabbbbbbbbabbbbbbb
+bbbbbbbabbbbbbbbbbbbabbbbbbbbbabbbbbbabbbbbbbabbbb
+babbbbbbbbbbabbbbbbbbbabbdbdbbbbbbbbbbbbbabbbbbbab
+bbbbbbabbbbbbbbabbbbbbbbdddddbbbbbbbbabbbbbbabbbbb
+bbbbbbbbbbabbbbbbbabbbbbdddeddbabbbbbbabbbbbbbbbbb
+bbbbabbbbbbbbbabbbbbbabdddfffddbbbbbabbbbbbbabbabb
+bbbbbbbbbbabbbbbbabbbdddddfffdbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbabbbbbdddddfffdbddbbdbbbbbbbbabbbbb
+abbbbbbabbbbbbbbbbbbghhijddddddddddddbbbbabbbbbbbb
+bbbabbbbbbbbabbbbabdkdddddddddkddddbbbbbbbbbbbbabb
+bbbbbbabbbbbbbbbbbbbghhljdddddkddmdbbabbbbbbabbbba
+bbbbbbbbbbabbbbbabbbkddddddnddopqrdbbbbbbabbbbbbab
+bbbbbabbbbbbsbbbbbbgtdddduddddddddddbbbbbbbbbbbbbb
+bbbbbbbbbbvbbbbbbbbkwwwwwwwwwwwwwwwdbabbbbbbbbabba
+babbbbabbbbbbbabbxyzwwwwwwwwwwwwwwwbbbbbabbbbbbbbb
+bbbbbbbbbbwwwwbbwkwwwwwwwwwwwwwwwwwbbbbbbbbbbabbbb
+bbbbbbbbbbwABwbbwkddghhCDwwwwwwwwwwbbbbabbbbbbbbab
+bbbbbbbbbbwddwbbwEddFghGmwwwwwwwwwwbbbbbbbbabbbbbb
+bbbbbbbbbbdddwbbwkdHkIdmmwwwwwwwwwwbbabbbbbbbbbabb
+bbbJbbbbbKwddwwwwdddkkdmmwwwwwwwwwwbbbbbbbbabbbbbb
+bbbbbbbbbLwdddddddddkoMrNwwwwwwwwwwbbbbbbbbbbbbbab
+bbbbbbbbbOwwddddddddoPqqrwwwwwwwwwwbbbbbabbbbbbbbb
+bbbbbbbbbbbwwwwwQRSwwwwwwwwwwwwwwwwbbbbbbbbbbbabbb
+bbbbbbbbbbbbbbbbbbbbwwwwwwwwwwwwwwwbbabbbbbbbbbbbb
+"}
+
+(1,1,2) = {"
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwdddddwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwdddddwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwddTddwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwdUUUdwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwdUUUdwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwdUUUdwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwdddddwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwdVVVdwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwddddkwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwddWdkwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwHdddEwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwddndkwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwudXddwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+"}
+
+(1,1,3) = {"
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwdddddwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwdddddwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwdddddwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwdddddwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwddWddwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwdddddwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+"}

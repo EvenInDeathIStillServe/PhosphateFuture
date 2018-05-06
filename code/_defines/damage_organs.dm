@@ -1,0 +1,7 @@
+#define BRUTE       "brute"
+#define BURN        "fire"
+#define TOX         "tox"
+#define OXY         "oxy"
+#define CLONE       "clone"
+#define PAIN        "pain"
+#define ELECTROCUTE "electrocute"

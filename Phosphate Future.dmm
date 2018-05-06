@@ -1,0 +1,425 @@
+"aa" = (/obj/machinery/piping/pipe,/turf/floor/rock,/area/underground)
+"ab" = (/mob/living/human/zombie,/turf/floor/rock,/area/underground)
+"ac" = (/obj/multiz/stairs/active/bottom{dir = 8},/turf/floor/rock,/area/underground)
+"ad" = (/obj/item/medical/gauze_pack,/turf/floor/rock,/area/underground)
+"ae" = (/obj/effect/landmark/zcontroller{down = 0; up = 1},/turf/wall/rock,/area/underground)
+"af" = (/obj/structure/table,/obj/item/clothing/glasses/eyepatch,/turf/floor/rock,/area/outside)
+"ag" = (/turf/wall/rock,/area/underground)
+"ah" = (/turf/floor/rock,/area/underground)
+"ai" = (/obj/structure/floodlight,/turf/floor/rock,/area/underground)
+"aj" = (/obj/machinery/elevator_control/bottom,/turf/floor/rock,/area/underground)
+"ak" = (/obj/structure/closet,/turf/floor/rock,/area/underground)
+"al" = (/obj/machinery/conveyor/east/south,/turf/floor/rock,/area/underground)
+"am" = (/obj/machinery/conveyor{dir = 8},/turf/floor/rock,/area/underground)
+"an" = (/obj/machinery/conveyor{dir = 8},/obj/structure/ore_source/phosphatez,/obj/machinery/drill,/turf/floor/rock,/area/underground)
+"ao" = (/obj/machinery/drill_control,/turf/floor/rock,/area/underground)
+"ap" = (/obj/structure/chair/wooden{dir = 1},/turf/floor/rock,/area/underground)
+"aq" = (/obj/structure/chair/wooden,/turf/floor/rock,/area/underground)
+"ar" = (/obj/item/weapon/paper,/turf/floor/rock,/area/underground)
+"as" = (/obj/item/weapon/pen,/turf/floor/rock,/area/underground)
+"at" = (/obj/machinery/conveyor,/turf/floor/rock,/area/underground)
+"au" = (/obj/structure/multiz/ladder/up,/turf/floor/rock,/area/underground)
+"av" = (/obj/structure/table,/obj/machinery/computer,/turf/floor/rock,/area/underground)
+"aw" = (/obj/structure/chair/office{dir = 8},/turf/floor/rock,/area/underground)
+"ax" = (/obj/multiz/stairs/active{dir = 8},/turf/floor/rock,/area/underground)
+"ay" = (/obj/item/weapon/pickaxe,/turf/floor/rock,/area/underground)
+"az" = (/obj/machinery/conveyor,/obj/machinery/furnace,/turf/floor/rock,/area/underground)
+"aA" = (/obj/structure/table,/obj/item/clothing/mask/respirator,/turf/floor/rock,/area/underground)
+"aB" = (/obj/structure/multiz/ladder/down,/turf/floor/rock,/area/underground)
+"aC" = (/obj/machinery/conveyor/north/east,/turf/floor/rock,/area/underground)
+"aD" = (/obj/machinery/conveyor{dir = 4},/turf/floor/rock,/area/underground)
+"aE" = (/obj/machinery/conveyor{dir = 4},/obj/machinery/SCMS_machine,/turf/floor/rock,/area/underground)
+"aF" = (/obj/structure/table,/turf/floor/rock,/area/underground)
+"aG" = (/obj/structure/table,/obj/item/clothing/head/ushanka,/turf/floor/rock,/area/underground)
+"aH" = (/obj/structure/table,/obj/item/reagent_container/food/snack/produce/potato,/obj/item/reagent_container/food/snack/produce/potato,/obj/item/reagent_container/food/snack/meat,/turf/floor/rock,/area/underground)
+"aI" = (/obj/structure/table,/obj/machinery/food_processor,/turf/floor/rock,/area/underground)
+"aJ" = (/obj/structure/table,/obj/machinery/microwave,/turf/floor/rock,/area/underground)
+"aK" = (/turf/floor/openspace,/area/underground)
+"aL" = (/obj/item/clothing/glasses/sunglasses,/turf/floor/rock,/area/underground)
+"aM" = (/obj/machinery/budgetdisplay,/turf/floor/rock,/area/underground)
+"aN" = (/obj/structure/table,/obj/item/clothing/suit/hazard,/turf/floor/rock,/area/outside)
+"aO" = (/obj/structure/table,/obj/item/clothing/uniform/miner,/obj/item/clothing/mask/respirator,/turf/floor/rock,/area/outside)
+"aP" = (/obj/structure/table,/obj/item/clothing/suit/toggle/chef,/obj/item/clothing/head/chefhat,/turf/floor/rock,/area/outside)
+"aQ" = (/obj/structure/table,/obj/item/clothing/uniform/bdu,/obj/item/clothing/suit/armor/pasgt,/obj/item/clothing/head/helmet/pasgt,/obj/item/clothing/gloves/tactical,/turf/floor/rock,/area/outside)
+"aR" = (/obj/structure/table,/obj/item/weapon/gun/projectile/automatic/m16a2,/turf/floor/rock,/area/outside)
+"aS" = (/obj/structure/table,/obj/item/clothing/mask/gas,/turf/floor/rock,/area/outside)
+"aT" = (/obj/structure/tree,/turf/floor/ground/grass,/area/outside)
+"aU" = (/turf/floor/ground/grass,/area/outside)
+"aV" = (/turf/floor/ground/sand,/area/outside)
+"aW" = (/obj/effects/water,/turf/floor/ground/sand,/area/outside)
+"aX" = (/obj/machinery/piping/pump_intake{dir = 8},/obj/effects/water,/turf/floor/ground/sand,/area/outside)
+"aY" = (/obj/machinery/piping/pipe,/turf/floor/ground/sand,/area/outside)
+"aZ" = (/obj/machinery/piping/pipe,/turf/floor/ground/grass,/area/outside)
+"ba" = (/obj/machinery/concrete_machine,/turf/floor/ground/grass,/area/outside)
+"bb" = (/obj/item/weapon/shovel,/turf/floor/ground/sand,/area/outside)
+"bc" = (/turf/floor/rock,/area/outside)
+"bd" = (/obj/machinery/elevator_control,/turf/floor/rock,/area/outside)
+"be" = (/obj/structure/platform,/turf/floor/rock,/area/outside)
+"bf" = (/obj/item/seed/tomato,/obj/item/seed/tomato,/turf/floor/ground/grass,/area/outside)
+"bg" = (/obj/item/seed/tomato,/obj/item/seed/tomato,/obj/item/seed/tomato,/turf/floor/ground/grass,/area/outside)
+"bh" = (/obj/machinery/conveyor/east/south,/turf/floor/rock,/area/outside)
+"bi" = (/obj/machinery/conveyor{dir = 8},/turf/floor/rock,/area/outside)
+"bj" = (/obj/machinery/conveyor{dir = 8},/obj/structure/ore_source/gold,/obj/machinery/drill,/turf/floor/rock,/area/outside)
+"bk" = (/obj/machinery/drill_control,/turf/floor/rock,/area/outside)
+"bl" = (/turf/wall/concrete,/area/outside)
+"bm" = (/obj/structure/table,/turf/floor/concrete{icon_state = "cafeteria"},/area/outside)
+"bn" = (/obj/item/seed/potato,/turf/floor/ground/grass,/area/outside)
+"bo" = (/obj/machinery/conveyor,/turf/floor/rock,/area/outside)
+"bp" = (/obj/structure/closet/crate,/obj/item/weapon/reagent_container/glass/bottle/coca_cola,/obj/item/weapon/reagent_container/glass/bottle/coca_cola,/obj/item/weapon/reagent_container/glass/bottle/coca_cola,/obj/item/weapon/reagent_container/glass/bottle/coca_cola,/obj/item/weapon/reagent_container/glass/bottle/coca_cola,/obj/item/weapon/reagent_container/glass/bottle/coca_cola,/obj/item/weapon/reagent_container/glass/bottle/coca_cola,/turf/floor/wood,/area/outside)
+"bq" = (/turf/floor/wood,/area/outside)
+"br" = (/obj/item/seed/carrot,/obj/item/seed/carrot,/turf/floor/ground/grass,/area/outside)
+"bs" = (/obj/item/seed/carrot,/obj/item/seed/carrot,/obj/item/seed/carrot,/turf/floor/ground/grass,/area/outside)
+"bt" = (/obj/item/weapon/shovel,/turf/floor/ground/grass,/area/outside)
+"bu" = (/obj/machinery/conveyor{dir = 8},/obj/structure/ore_source/iron,/obj/machinery/drill,/turf/floor/rock,/area/outside)
+"bv" = (/obj/item/weapon/reagent_container/glass/bottle/coca_cola,/turf/floor/rock,/area/outside)
+"bw" = (/obj/machinery/conveyor{dir = 1},/turf/floor/rock,/area/outside)
+"bx" = (/obj/structure/stool,/turf/floor/wood,/area/outside)
+"by" = (/obj/structure/table,/obj/item/weapon/reagent_container/glass/bottle/coca_cola,/obj/item/weapon/reagent_container/glass/bottle/coca_cola,/turf/floor/wood,/area/outside)
+"bz" = (/obj/structure/multiz/ladder/down,/turf/floor/rock,/area/outside)
+"bA" = (/obj/item/weapon/reagent_container/glass/bottle/water,/turf/floor/rock,/area/outside)
+"bB" = (/obj/machinery/conveyor/north/east,/turf/floor/rock,/area/outside)
+"bC" = (/obj/machinery/conveyor{dir = 4},/obj/machinery/saw,/turf/floor/rock,/area/outside)
+"bD" = (/obj/machinery/conveyor{dir = 4},/turf/floor/rock,/area/outside)
+"bE" = (/obj/machinery/conveyor/west/north,/turf/floor/rock,/area/outside)
+"bF" = (/obj/structure/door,/turf/floor/wood,/area/outside)
+"bG" = (/obj/structure/workbench/carpentry,/turf/floor/ground/grass,/area/outside)
+"bH" = (/obj/item/reagent_container/food/snack/produce/carrot,/turf/floor/ground/grass,/area/outside)
+"bI" = (/obj/machinery/conveyor/north/west,/turf/floor/rock,/area/outside)
+"bJ" = (/turf/floor/openspace,/area/outside)
+"bK" = (/obj/item/weapon/axe,/turf/floor/ground/grass,/area/outside)
+"bL" = (/obj/machinery/conveyor/south/east,/turf/floor/rock,/area/outside)
+"bM" = (/obj/machinery/conveyor/west/south,/turf/floor/rock,/area/outside)
+"bN" = (/obj/item/ingot/iron,/obj/item/ingot/iron,/turf/floor/rock,/area/outside)
+"bO" = (/obj/item/clothing/glasses/safety_goggles,/turf/floor/rock,/area/outside)
+"bP" = (/obj/item/clothing/mask/shemagh,/turf/floor/rock,/area/outside)
+"bQ" = (/obj/structure/closet/crate,/turf/floor/rock,/area/outside)
+"bR" = (/turf/wall/rock,/area/outside)
+"bS" = (/obj/structure/door,/turf/floor/concrete,/area/outside)
+"bT" = (/obj/machinery/conveyor/east/south,/turf/floor/ground/grass,/area/outside)
+"bU" = (/obj/machinery/conveyor{dir = 8},/turf/floor/ground/grass,/area/outside)
+"bV" = (/obj/machinery/conveyor/north/west,/turf/floor/ground/grass,/area/outside)
+"bW" = (/obj/structure/table,/obj/item/ammo_magazine/c556x45m,/obj/item/ammo_magazine/c556x45m,/obj/item/ammo_magazine/c556x45m,/obj/item/ammo_magazine/c556x45m,/obj/item/ammo_magazine/c556x45m,/obj/item/ammo_magazine/c556x45m,/obj/item/ammo_magazine/c556x45m,/obj/item/ammo_magazine/c556x45m,/turf/floor/rock,/area/outside)
+"bX" = (/obj/item/weapon/wrench,/turf/floor/rock,/area/outside)
+"bY" = (/obj/machinery/piping/pipe,/turf/floor/rock,/area/outside)
+"bZ" = (/turf/floor/concrete,/area/outside)
+"ca" = (/obj/machinery/vendingmachine,/turf/floor/rock,/area/outside)
+"cb" = (/obj/structure/cashbox,/turf/floor/rock,/area/outside)
+"cc" = (/obj/machinery/vendingmachine/mcdrugs,/turf/floor/rock,/area/outside)
+"cd" = (/obj/machinery/conveyor{dir = 8},/obj/item/wood,/turf/floor/rock,/area/outside)
+"ce" = (/obj/machinery/conveyor/south/west,/turf/floor/rock,/area/outside)
+"cf" = (/obj/machinery/conveyor/north/east,/obj/machinery/alloyer,/turf/floor/rock,/area/outside)
+"cg" = (/obj/multiz/stairs/active/bottom{dir = 8},/turf/floor/concrete,/area/outside)
+"ch" = (/obj/machinery/conveyor,/obj/machinery/furnace,/turf/floor/rock,/area/outside)
+"ci" = (/obj/item/weapon/pickaxe,/turf/floor/rock,/area/outside)
+"cj" = (/obj/machinery/conveyor,/obj/item/wood,/turf/floor/rock,/area/outside)
+"ck" = (/obj/machinery/conveyor/south/west,/obj/item/stack/planks,/turf/floor/rock,/area/outside)
+"cl" = (/obj/machinery/conveyor,/obj/item/stack/planks,/turf/floor/rock,/area/outside)
+"cm" = (/obj/item/reagent_container/food/snack/burger,/turf/floor/rock,/area/outside)
+"cn" = (/obj/item/clothing/head/hardhat/white,/turf/floor/ground/grass,/area/outside)
+"co" = (/obj/item/clothing/uniform/workman/foreman,/turf/floor/ground/grass,/area/outside)
+"cp" = (/obj/machinery/computer,/turf/floor/rock,/area/outside)
+"cq" = (/obj/item/weapon/shovel,/turf/floor/rock,/area/outside)
+"cr" = (/obj/item/reagent_container/food/snack/baddrugs,/turf/floor/rock,/area/outside)
+"cs" = (/obj/machinery/conveyor{dir = 4},/obj/item/stack/planks,/turf/floor/rock,/area/outside)
+"ct" = (/obj/machinery/conveyor{dir = 1},/obj/item/wood,/turf/floor/rock,/area/outside)
+"cu" = (/obj/item/clothing/shoes/workboots,/turf/floor/ground/grass,/area/outside)
+"cv" = (/obj/machinery/conveyor{dir = 4},/obj/item/wood,/turf/floor/rock,/area/outside)
+"cw" = (/obj/machinery/buy,/turf/wall/rock,/area/outside)
+"cx" = (/obj/machinery/budgetdisplay,/turf/wall/rock,/area/outside)
+"cy" = (/obj/machinery/sell,/turf/wall/rock,/area/outside)
+"cz" = (/obj/effect/landmark/zcontroller{down = 1; up = 1},/turf/floor/ground/grass,/area/outside)
+"cA" = (/obj/structure/table,/turf/floor/rock,/area/outside)
+"cB" = (/obj/effect/landmark/zcontroller{down = 1; up = 1},/turf/wall/rock,/area/outside)
+"cC" = (/turf/floor/spawnpoint,/area)
+"cD" = (/obj/multiz/stairs/active/bottom,/turf/floor/concrete,/area/outside)
+"cE" = (/obj/multiz/stairs/active{dir = 8},/turf/floor/concrete,/area/outside)
+"cF" = (/obj/structure/table,/obj/item/weapon/reagent_container/glass/bottle/coca_cola,/turf/floor/concrete,/area/outside)
+"cG" = (/obj/structure/table,/obj/item/weapon/reagent_container/glass/bottle/coca_cola,/obj/item/clothing/glasses/sunglasses,/turf/floor/concrete,/area/outside)
+"cH" = (/obj/effect/landmark/zcontroller{down = 1; up = 1},/turf/floor/openspace,/area/outside)
+"cI" = (/obj/multiz/stairs/active{dir = 1},/turf/floor/concrete,/area/outside)
+"cJ" = (/obj/effect/landmark/zcontroller{down = 1; up = 0},/turf/floor/openspace,/area/outside)
+"cL" = (/obj/structure/closet/crate/wood,/turf/floor/concrete,/area/outside)
+"cM" = (/turf/floor/concrete{icon_state = "cafeteria"},/area/outside)
+"cN" = (/obj/structure/table,/obj/machinery/microwave,/turf/floor/concrete{icon_state = "cafeteria"},/area/outside)
+"cO" = (/obj/structure/table,/obj/machinery/food_processor,/turf/floor/concrete{icon_state = "cafeteria"},/area/outside)
+"cP" = (/obj/structure/closet/fridge,/obj/item/reagent_container/food/snack/produce/potato,/obj/item/reagent_container/food/snack/produce/potato,/obj/item/reagent_container/food/snack/produce/potato,/obj/item/reagent_container/food/snack/produce/carrot,/obj/item/reagent_container/food/snack/produce/carrot,/obj/item/reagent_container/food/snack/produce/carrot,/obj/item/reagent_container/food/snack/produce/tomato,/obj/item/reagent_container/food/snack/produce/tomato,/obj/item/reagent_container/food/snack/produce/tomato,/turf/floor/concrete{icon_state = "cafeteria"},/area/outside)
+"cQ" = (/obj/structure/closet/fridge,/obj/item/reagent_container/food/snack/meat,/obj/item/reagent_container/food/snack/meat,/obj/item/reagent_container/food/snack/meat,/turf/floor/concrete{icon_state = "cafeteria"},/area/outside)
+"cR" = (/obj/structure/table,/obj/item/kitchen/knife,/turf/floor/concrete{icon_state = "cafeteria"},/area/outside)
+"cS" = (/obj/structure/table,/obj/item/reagent_container/food/snack/cheesewheel,/turf/floor/concrete{icon_state = "cafeteria"},/area/outside)
+"cT" = (/obj/item/weapon/gun,/turf/floor/rock,/area/outside)
+"cU" = (/obj/item/weapon/gun/projectile/colt,/turf/floor/rock,/area/outside)
+"cV" = (/obj/item/ammo_magazine/c45m,/obj/item/ammo_magazine/c45m,/obj/item/ammo_magazine/c45m,/obj/item/ammo_magazine/c45m,/obj/item/ammo_magazine/c45m,/obj/item/ammo_magazine/c45m,/turf/floor/rock,/area/outside)
+"cW" = (/obj/item/weapon/gun/projectile/automatic/ak74,/turf/floor/rock,/area/outside)
+"cX" = (/obj/item/ammo_magazine/c545x39b,/obj/item/ammo_magazine/c545x39b,/obj/item/ammo_magazine/c545x39b,/turf/floor/rock,/area/outside)
+"cY" = (/mob/living/human/npc{name = "Frank"},/turf/floor/ground/grass,/area/outside)
+"db" = (/obj/structure/table/wood,/turf/floor/rock,/area/underground)
+"dc" = (/obj/structure/table,/obj/item/ammo_magazine/c545x39b,/turf/floor/wood,/area/outside)
+"dd" = (/mob/living/human/zombie,/turf/floor/wood,/area/outside)
+"de" = (/obj/structure/table,/obj/item/weapon/gun/projectile/automatic/ak74,/turf/floor/wood,/area/outside)
+"df" = (/obj/effects/fire,/turf/floor/rock,/area/outside)
+"dg" = (/obj/item/weapon/flamethrower,/turf/floor/rock,/area/outside)
+
+(1,1,1) = {"
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagahahahahahahahahahahahahahahagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagahahahahahahahahahahahahahahagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagahahahahahaaaaaaaaaaaaahahahagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagahahahaaaaaaahahahahaaaaahahagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagahahabahahaaaaaaaaaaaaahahahagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagahahahahahahahahahahahahahabagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagahahacahahahahahahahahahahahagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagahahahahahahahadahauahahahahagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagahahahabahahadahahahahahabahagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagahahahahahabahahahahahahahahagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+agagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+aeagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagagag
+"}
+
+(1,1,2) = {"
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRagagagagagagagagagagagagagagagagagagagbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRagagagagagagahahaiahahagagagagagagagagbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRagagagagagagdbahahahahagagagagagagagagbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRagagagagagagahahajahahagagagagagagagagbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRagagagagagagdbahahahahagagagagagagagagbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRagagagagagagahahahahahagagagagagagagagbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRagagagagagagdbahahahahagagagagagagagagbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRagagagagagagahahahahahahahahahahahdbagbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRagagagagagagahakakakalamanaoahahahdbagbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRagaiahapaqarasahahahatahahahahahahdbagbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRagahahahahasarahauahatahavawahaiahdbagbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRagaxahahahahayahahahazahahahahahahdbagbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRagaAahahahahahahaBahaCaDaEahahahahdbagbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRagaFaGaHaIaJaKaLaMahahahahahahahahdbagbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRagagagagagagagagahagagagagagagagagagagbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRafaNaObcaPaQaRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRaSbcbcbcbcbcbWbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRcAbcbcbcbcbccAbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRcAcAcAcAcAcAcAbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+bRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+cBbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbR
+"}
+
+(1,1,3) = {"
+aTaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUblblblblblblblblblblblblblblblblblblblbl
+aUaUaUaUaTaUaUaUaUaUaUaUaTaUaUaUaUaUaUaUaTaUaUaUaUaUaTaUaUaUblbqbqbqbqbqbqdcbqbqbqbqddbqddbqbqddbqbl
+aUaUaTaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUblddbqbqbqbqbqdcbqbqbqbqbqbqbqbqbqbqbqbl
+aUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUblbqbqbqblbqbqdebqbqbqbqbqbqddbqbqddbqbl
+aUaUaUaUaUaUaUaUaTaUaUaUaUaUaUaUaUaTaUaUaUaUaUaUaUaUaUaUaUaUblbqbqbqblbqbqdcbqbqbqddbqbqbqbqbqbqbqbl
+aUaUaUaTaUaUaUaUaUaUaUaUaUaTaUaUaUaUaUaUaUaUaUaTaUaUaUaUaUaUblbqbqddblbqbqdcbqbqbqbqbqbqbqbqbqddbqbl
+aUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaTaUaUaUaUaUaUaUaUaUaUaUaUaUaUblbqbqbqbldcbqdcbqbqbqbqbqbqbqddbqbqbqbl
+aTaUaUaUaUaUaTaUaUaTaUaTaUaUaUaUaUaUaTaUaUaUaUaTaUaUaUaUaUaTblbqbqbqblbqbqbqbqbqbqddbqbqbqbqbqbqbqbl
+aUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUblblbFblblblblblblblblblblblblblblblblbl
+aUaUaTaUaUaUaUaUaTaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaTaUaUaUaUaUaTaUaUaUaUaUaUaUaU
+aUaUaUaUaUaUaUaUaUaUaUaUaUaTaUaUaUaUaTaUaUaUaUaUaTaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaTaUaUaU
+aUaUaUaUaUaTaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaTaUaUaUaUaUaUaUaUaUaUaU
+aUaUaUaUaTaUaUaUaTaUaUaUaUaUaUaUaUaUaUaUaUaUaTaUaUaUaUaUaUaUaUaUaUaUaUaUaUaTaUaUaUaTaUaUaUaUaUaUaUaU
+aTaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaTaUaUaUaUaVaVaVaUaUaUaUaUaUaUaUaTaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaU
+aUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaVaVaWaVaVaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaU
+aUaUaUaUaUaUaUaTaUaUaUaUaTaUaUaUaUaUaUaVaVaVaWaWaWaVaVaVaUaUaUaUaTaUaUaUaUaUaTaUaUaTaUaUaUaUaUaUaUaU
+aUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaTaUaVaWaWaWaWaWaWaWaVaVaVaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaTaUaUaU
+aUaUaUaUaUaTaUaUaUaUaUaUaUaUaUaUaUaUaVaVaWaWaWaWaWaWaWaVaWaVaUaUaUaUaUaUaUaUaTaUaUaUaUaUaTaUaUaUaUaU
+aUaUaUaTaUaUaUaUaUaUaUaTaUaUaTaUaVaVaVaWaWaWaWaWaWaWaWaWaWaVaUaUaUaUaUaTaUaUaUaUaUaUaUaUaUaUaTaUaUaU
+aUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaVaWaWaWaWaWaWaWaWaWaWaWaXaYaZaZaZaZaZaUaUaUaUaUaUaTaUaUaUaUaUaUaUaU
+aUaUaUaUaUaUaUaUaUaUaUaTaUaUaUaUaVaVaWaWaWaWaWaWaWaWaWaWaWaVaUaUaZaUaZaUaUaUaTaUaUaUaUaTaUaUaUaUaUaU
+aUaUaUaUaUaUaUaUaTaUaUaUaUaUaUaUaUaVaVaWaWaWaWaWaWaWaWaWaVaVaUaUaZaUaZaTaUaUaUaUaUaUaTaUaUaUaUaTaUaU
+aUaUaTaUaUaUaUaUaUaUaUaUaUaUaTaUaUaUaVaVaWaWaWaWaWaWaWaWaVaUaUaUaZaZaZaUaUaUaUaUaUaUaUaUaUaUaUaUaUaU
+aUaUaUaUaTaUaUaUaUaUaUaTaUaUaUaUaTaUaUaVaWaWaWaVaWaWaWaVaVaTaUaUaUaUaUaUaUaUaUaUaTaUaUaTaUaUaUaUaUaU
+aUaUaTaUaUaUaUaUaTaUaUaUaUaUaUaTaUaUaUaVaVaWaVaVaVaWaWaVbaaUaUaUaUaUaTaUaUaUaUaUaUaUaUaUaUaUaUaTaUaU
+aUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaVaVaVaUaVaVaVbbaUaUaUaUaTaUaUaUaUaUaUaTaUaUaUaUaUaUaUaUaUaT
+aUaUaUaUaTaUaUaUaUaUaUaUaUaTaUaUaTaUaUaUaUaUaUaUaUaUaUaUaTaUaUaUaUaTaUaUaUaUaUaUaUaUaTaUaUaUaUaUaUaU
+aUaUaUaUaUaUaUaTaUaUaUaUaUaUaUaUaUaUaUaUaTaUaUaUaUaUaUaUaUaUaTaUaUaUaUaUaUaTaUaUaUaUaUaUaUaTaUaUaUaU
+aUaTaUaUaUaUaUaUaUaUaUaUaTaUaUaUaUaUaUaUaUaUaTaUaUbcaUbcaUaUaUaUaUaUaUaUaUaUblblblblblblblblaUaUaTaU
+aUaUaUaUaUaUaTaUaUaUaUaUaUaUaUaTaUaUaUaUaUaUaUaUbcbcbcbcbcaUaUaUaUaUaUaUaUaTblbmcOcNbmcRbmblaUaUaUaU
+aUaUaUaUaUaUaUaUaUaUaTaUaUaUaUaUaUaUaTaUaUaUaUaUbcbcbcbdbcbcaUaTaUaUaUaUaUaUblbmcMcMcMcMcPblaUaUaUaU
+aUaUaUaUaTaUaUaUaUaUaUaUaUaUaTaUaUaUaUaUaUaTaUbcdfbcbebebebcbcaUaUaUaUaUaTaUblbmcMcScScMcQblaUaTaUaU
+aUaUaUaUaUaUaUaUaUaUaTaUaUaUaUaUaUaTaUaUaUbcbcbcbcbcbebebebcaUaUaUaUaUaUaUaUblcMcMbmbmcMcMblaUaUaUaU
+aUaUaUaUaUaUaUaUaUaUaUaUbfbfaUaTaUaUaUaUaUbcbcbcbcbcbebebebccYbcbcaUaUbcaUaUblcMcMcMcMcMbmblaUaUaUaU
+aTaUaUaUaUaUaUaTaUaUaUaUbgbfaUaUaUaUaUaUbhbibibjbkbcbcbcbcbcbcbcbcbcbcbcbcaUblcMbmbmbmbmbmblaUaUaUaU
+aUaUaUaTaUaUaUaUaUaUaUaUaTbnbnaUaUaTaUbcbobcbcbcbcbcbcbcdgbcbobcbcbcbcaUaUaUblbqbqbqbqbqbqblaUaTaUaU
+aUaUaUaUaUaUaTaUaUaUaUaUbrbsaUbtaUaUaUaUbhbibibubkbcbcbvbvbvbobcbcbwbcaUaUaTblbqbqbqbxbybqblaUaUaUaT
+aUaUaUaUaUaUaUaUaUaUaTaUbrbraUaUaTaUaUaUbobcbcbcbccWcXbzbAbAbBbCbDbEbcaUaUaUbFbqbqbqbxbybqblaUaUaTaU
+aUaUaUaUaUaTaUaUaUaUaUaUbGaUbHaUaUaUaUbhbIcUbccTbcbJbcbcbAbAbcbcbcbcbcbcaUaUblbpbqbqbxbybqblaUaUaUaU
+aUaUaUaUaUaUaUaUaUaUbKaUaUaUaUaUaUaUaUbobccVbcbcbLbMbNbObPbcbQbcbcbcbcbRaUaTblblbSblblblblblaTaUaUaT
+aUaTaUaUaUaUaTaUaUaUaUaUaUaUaTaUaUbTbUbVbcbccCbcbwbobobwbXbcbYbcbRbRbcaUaUaUblbZbZcLblaUaUaUaUaUaUaU
+aUaUaUaUaUaUaUaUaUaUbRbRbRbRbRaUbRbobcbLbDbDbDbDbEbobobwbcbYbYbRbRbRbRaUaUaUblbZbZbZblaUaUaTaUaUaUaU
+aUaUaUaUaUaUaUaUaUaUbRcacbccbRaUbRbobcbwbhbibicdcebBcfbEbYbYbRbRbRbRbRaUaUaUblbZbZcgblaUaUaUaUaUaTaU
+aUaUaUaUaUaUaUaUaUaUbRbcbcbcbRaUbRchcibwcjbhbickbwbRbRbRbRbRbRbRbRbRbRaUaUaUblblblblblaTaUaUaUaUaUaU
+aUaUaUaUaUaUaUaUaUaUbcbcbcbcbRaUbRbBbDbEboclcmbwbwbRbRbRbRbRbRbRbRbRbRaUaUaTaUaUaUaUaUaUaUaUaUaTaUaU
+aUaUaUaUaUaUaUaUaUcnbRbcbcbcbRbRbRbcbcbcbobocmbwbwbRbRbRbRbRbRbRbRbRbRaUaUaUaUaUaUaUaUaTaUaUaUaUaUaU
+aUaUaUaUaUaUaUaUaUcobRcpbcbccqbcbcbccrcrbobBcsbEctbRbRbRbRbRbRbRbRbRbRaUaUaUaUaUaUaUaUaUaUaUaUaUaTaU
+aUaUaUaUaUaUaUaUaUcubRbRbcbcbcbcbccmcrcrbBcvbDbDbEbRbRbRbRbRbRbRbRbRbRaUaUaUaUaUaTaUaUaUaUaUaUaUaUaU
+aUaUaUaUaUaUaUaUaUaUaUbRbRbRbRbRcwcxcybRbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRaUaUaUaUaUaUaUaUaUaUaUaTaUaUaU
+czaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUaUbRbRbRbRbRbRbRbRbRbRbRbRbRbRbRaUaUaTaUaUaUaUaUaUaUaUaUaUaUaU
+"}
+
+(1,1,4) = {"
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbZbZbZbZbZbZbZbZbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbZbZbZbZbZbZbZbZbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbZbZbZbZbZbZbZbZbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbZbZbZbZbZbZbZbZbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbZbZbZbZbZbZbZbZbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJblbZbZbZblbZbZbZbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbZbZbZbZbZcDbZbZbZbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbZbZbZbZbZbZbZbZbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbZbZbZbZbZbZcEbZbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJblcFcGcFblbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+cHbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+"}
+
+(1,1,5) = {"
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbZbZbZbZbZbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbZcIbZbZbZbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbZbZbZbZbZbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbZbZbZbZbZbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbZbZbZbZbZbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+bJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+cJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJ
+"}
